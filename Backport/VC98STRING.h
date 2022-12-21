@@ -2,7 +2,6 @@
 
 #pragma once
 
-#include "../PaintsNow.h"
 #include <xmemory>
 
 #ifdef  _MSC_VER
